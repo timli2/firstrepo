@@ -4,3 +4,7 @@ Second Changes In localbranch
 My merges
 
 new changes again
+
+Agagin to new_merge
+
+Do a pull-request
